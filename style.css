@@ -252,6 +252,9 @@ td, th{
     nav{
         position: static;
     }
+    .productos li{
+        width: 100%;
+    }
     .caja, .principal, .mapa-contenido, .contenido-diferenciales, .video, .productos{
         width: auto;
     }
